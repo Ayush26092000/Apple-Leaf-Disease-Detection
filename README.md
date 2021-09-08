@@ -1,2 +1,7 @@
 # Apple-Leaf-Disease-Detection
 Build a deep learning model that can classify the different types of diseases based on Apple leaf using image enhancement, segmentation, and feature extraction techniques.
+
+
+Agriculture is the feeding source to every human being on this planet. And Indian economy highly depends on agriculture resources. So, productivity of agriculture resources is must. Due to certain factors the productivity decreases and it can be controlled by detecting the leaf disease at the right time. 
+
+Apple leaf disease is the foremost factor that restricts apple yield and quality. Usually, much time is taken for disease detection with the existing diagnostic techniques; therefore, farmers frequently miss the best time for preventing and treating diseases. The detection of apple leaf diseases is a significant research problem, and its main aim is to discover an efficient technique for disease leaf image diagnosis. This article has made an effort to propose a method that can detect the disease of apple plant leaf using deep neural network (DNN). Plant diseases detection system (PDDS) architecture is designed. Speeded up robust feature (SURF) is used for feature extraction, which helps to achieve better detection and classification accuracy. Classification parameters, such as Precision, Recall, F-measure, Error, and Accuracy is computed, and a comparative analysis has been performed to depict the effectiveness of the proposed work
